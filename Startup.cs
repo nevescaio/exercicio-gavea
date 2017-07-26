@@ -12,6 +12,7 @@ namespace Exercício_Gávea
          // parameter in the WebApp.Start method. 
          public void Configuration(IAppBuilder appBuilder)
          {
+            // Permitir acessar o arquivo index.html e definir como padrao.
             const string rootFolder = ".";
             var fileSystem = new PhysicalFileSystem(rootFolder);
             var options = new FileServerOptions
@@ -23,7 +24,7 @@ namespace Exercício_Gávea
 
             appBuilder.UseFileServer(options);
 
-            // Configure Web API for self-host.  
+            // Configurar Web API para self-host.
             HttpConfiguration config = new HttpConfiguration(); 
  
              config.MapHttpAttributeRoutes(); 
