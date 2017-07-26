@@ -11,6 +11,7 @@ $('#combo').on('change', function() {
 		'12/01/2016'
 	];
 	
+	// Exibir dados e descer scroll para o inicio dos dados
 	$('.container').removeClass('hidden');
 	$('.container').addClass('show');
 	if ($('html, body').scrollTop() < $('.jumbotron').height()){
@@ -19,10 +20,12 @@ $('#combo').on('change', function() {
 		}, 1000);
 	}
 	
-
+	// Consumir API passando o valor do combobox
 	$.get("/api/portfolio/"+this.value, function(response) {
 		var cisneNegroHtml = zeroUmHtml = allHtml = '';
 		for(var i = 0; i < response.cisneNegroAssets.length; i++) {
+			
+					// Montar HTML das tabelas com os dados retornados
 					cisneNegroHtml += '<tr><td>' + response.cisneNegroAssets[i].name + 
 							'</td><td>' + response.cisneNegroAssets[i].number + 
 							'</td><td class="text-right">' + parseFloat(response.cisneNegroAssets[i].money).toFixed(2) + '</td></tr>';
@@ -33,6 +36,8 @@ $('#combo').on('change', function() {
 							'</td><td>' + response.allAssets[i].number + 
 							'</td><td class="text-right">' + parseFloat(response.allAssets[i].money).toFixed(2) + '</td></tr>';
 		}
+		
+		// Adicionar HTML as tabelas de dados
 		$('#cisneNegroTable tr').not(':first').remove();
 		$('#zeroUmTable tr').not(':first').remove();
 		$('#allTable tr').not(':first').remove();
@@ -44,6 +49,8 @@ $('#combo').on('change', function() {
 	});
 	
 	$.when(data).done(function(data) {	
+		
+		// Exibir o financeiro investido em cada ativo em grafico de pizza
 		$("#cisneNegroPieChart").CanvasJSChart({ 
 			data: [ 
 			{ 
@@ -107,6 +114,7 @@ $('#combo').on('change', function() {
 			] 
 		});
 		
+		// Exibir em grafico o valor da cota de cada fundo ate o dia presente
 		$("#cisneNegroGraph").CanvasJSChart({
 			title: {
 				text: "Evolução da cota"
