@@ -1,0 +1,33 @@
+c:\users\samsung\documents\visual studio 2017\Projects\Exercício Gávea\Exercício Gávea\bin\Debug\Exercício Gávea.exe.config
+c:\users\samsung\documents\visual studio 2017\Projects\Exercício Gávea\Exercício Gávea\bin\Debug\Exercício Gávea.exe
+c:\users\samsung\documents\visual studio 2017\Projects\Exercício Gávea\Exercício Gávea\bin\Debug\Exercício Gávea.pdb
+c:\users\samsung\documents\visual studio 2017\Projects\Exercício Gávea\Exercício Gávea\bin\Debug\Microsoft.Owin.dll
+c:\users\samsung\documents\visual studio 2017\Projects\Exercício Gávea\Exercício Gávea\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+c:\users\samsung\documents\visual studio 2017\Projects\Exercício Gávea\Exercício Gávea\bin\Debug\Microsoft.Owin.Hosting.dll
+c:\users\samsung\documents\visual studio 2017\Projects\Exercício Gávea\Exercício Gávea\bin\Debug\Newtonsoft.Json.dll
+c:\users\samsung\documents\visual studio 2017\Projects\Exercício Gávea\Exercício Gávea\bin\Debug\Owin.dll
+c:\users\samsung\documents\visual studio 2017\Projects\Exercício Gávea\Exercício Gávea\bin\Debug\System.Net.Http.Formatting.dll
+c:\users\samsung\documents\visual studio 2017\Projects\Exercício Gávea\Exercício Gávea\bin\Debug\System.Web.Http.dll
+c:\users\samsung\documents\visual studio 2017\Projects\Exercício Gávea\Exercício Gávea\bin\Debug\System.Web.Http.Owin.dll
+c:\users\samsung\documents\visual studio 2017\Projects\Exercício Gávea\Exercício Gávea\bin\Debug\Microsoft.Owin.xml
+c:\users\samsung\documents\visual studio 2017\Projects\Exercício Gávea\Exercício Gávea\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+c:\users\samsung\documents\visual studio 2017\Projects\Exercício Gávea\Exercício Gávea\bin\Debug\Microsoft.Owin.Hosting.xml
+c:\users\samsung\documents\visual studio 2017\Projects\Exercício Gávea\Exercício Gávea\bin\Debug\Newtonsoft.Json.xml
+c:\users\samsung\documents\visual studio 2017\Projects\Exercício Gávea\Exercício Gávea\bin\Debug\System.Net.Http.Formatting.xml
+c:\users\samsung\documents\visual studio 2017\Projects\Exercício Gávea\Exercício Gávea\bin\Debug\System.Web.Http.xml
+c:\users\samsung\documents\visual studio 2017\Projects\Exercício Gávea\Exercício Gávea\bin\Debug\System.Web.Http.Owin.xml
+c:\users\samsung\documents\visual studio 2017\Projects\Exercício Gávea\Exercício Gávea\obj\Debug\Exercício Gávea.csprojResolveAssemblyReference.cache
+c:\users\samsung\documents\visual studio 2017\Projects\Exercício Gávea\Exercício Gávea\obj\Debug\Exercício Gávea.exe
+c:\users\samsung\documents\visual studio 2017\Projects\Exercício Gávea\Exercício Gávea\obj\Debug\Exercício Gávea.pdb
+C:\Users\Samsung\documents\visual studio 2017\Projects\Exercício Gávea\Exercício Gávea\bin\Debug\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\Samsung\documents\visual studio 2017\Projects\Exercício Gávea\Exercício Gávea\bin\Debug\pt-br\System.Web.Http.resources.dll
+C:\Users\Samsung\documents\visual studio 2017\Projects\Exercício Gávea\Exercício Gávea\bin\Debug\Microsoft.Owin.FileSystems.dll
+C:\Users\Samsung\documents\visual studio 2017\Projects\Exercício Gávea\Exercício Gávea\bin\Debug\Microsoft.Owin.StaticFiles.dll
+C:\Users\Samsung\documents\visual studio 2017\Projects\Exercício Gávea\Exercício Gávea\bin\Debug\Microsoft.Owin.FileSystems.xml
+C:\Users\Samsung\documents\visual studio 2017\Projects\Exercício Gávea\Exercício Gávea\bin\Debug\Microsoft.Owin.StaticFiles.xml
+C:\Users\Samsung\documents\visual studio 2017\Projects\Exercício Gávea\Exercício Gávea\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Samsung\documents\visual studio 2017\Projects\Exercício Gávea\Exercício Gávea\bin\Debug\NPOI.dll
+C:\Users\Samsung\documents\visual studio 2017\Projects\Exercício Gávea\Exercício Gávea\bin\Debug\NPOI.OOXML.dll
+C:\Users\Samsung\documents\visual studio 2017\Projects\Exercício Gávea\Exercício Gávea\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Samsung\documents\visual studio 2017\Projects\Exercício Gávea\Exercício Gávea\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Samsung\documents\visual studio 2017\Projects\Exercício Gávea\Exercício Gávea\bin\Debug\NPOI.xml
