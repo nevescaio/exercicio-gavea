@@ -22,7 +22,7 @@ namespace Exercício_Gávea
                 throw new HttpResponseException(response);
             }
 
-            Portfolio portfolio = new Portfolio(day);
+            Portfolio portfolio = GetData.fromExcel(day);
 			return portfolio;
 		}
 	}

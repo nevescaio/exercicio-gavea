@@ -13,8 +13,7 @@ namespace Exercício_Gávea
          public void Configuration(IAppBuilder appBuilder)
          {
             // Permitir acessar o arquivo index.html e definir como padrao.
-            const string rootFolder = ".";
-            var fileSystem = new PhysicalFileSystem(rootFolder);
+            var fileSystem = new PhysicalFileSystem(".");
             var options = new FileServerOptions
             {
                 EnableDefaultFiles = true,

@@ -88,6 +88,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Asset.cs" />
+    <Compile Include="GetData.cs" />
     <Compile Include="LogHandler.cs" />
     <Compile Include="Portfolio.cs" />
     <Compile Include="PortfolioController.cs" />
